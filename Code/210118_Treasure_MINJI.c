@@ -1,11 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>    // qsort 함수가 선언된 헤더 파일
 
-//오름차순으로 하면 0이 맨처음 나왔을때 여러개 중 골라야되니까 내림차순으로 하기로 함
-//내림차순일 경우 0에 대한 처리 안해줘도 됨
-//1. A내림차순  2. B요소들이랑 곱해보고 제일 작은 값 찾기  3. 작은 값 더하기
-//A큰거 * B작은거
-
 int compare(const void *a, const void *b);  
 
 int main(void){
