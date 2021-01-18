@@ -1,6 +1,6 @@
 ## Chatbot Algorithm Study - Readme
 ### * 파일 이름은 날짜_문제번호_이름으로 적어주세요! 
-##### ex) 210118_1026_NAMA
+ex) 210118_1026_NAMA.c
 ## 문제목록
 #### 2021-01-18 MON
 
