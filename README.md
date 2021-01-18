@@ -9,7 +9,7 @@ ex) 210118_Treasure_NAMA.c
 
 - [동전 뒤집기, Coin Flip(1285)](https://www.acmicpc.net/problem/1285)
 - [토너먼트, torneamentum(1057)](https://www.acmicpc.net/problem/1057)
-- [더하기 사이클, Plus Cycle(1110)](https://www.acmicpc.net/problem/1285)
+- [더하기 사이클, Plus Cycle(1110)](https://www.acmicpc.net/problem/1110)
 
 ---------------------------------
 
